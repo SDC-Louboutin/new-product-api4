@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "background": "rgba(253, 251, 247, 1)",
+        "background2": "rgba(247, 247, 241, 1)",
+        "primary": "rgba(28, 40, 54, 1)",
+        "secondary": "rgba(87, 125, 195, 1)",
+        "tertiary": "rgba(220, 238, 253, 1)",
+        "gray": "#e5e5e5",
+        "gray2": "#a4a4a4",
+        "white": "rgba(255, 255, 255, 1)",
+        "black": "rgba(0, 0, 0, 1)",
+        "textPrimary": "rgba(27, 27, 27, 1)",
+        "textSecondary": "rgba(32, 35, 34, 1)",
+        "textWarning": "rgba(255, 204, 0, 1)",
+        "textSuccess": "rgba(61, 182, 158, 1)",
+        "textDanger": "rgba(220, 38, 38, 1)",
+        "buttonWarning": "rgba(253, 244, 203, 1)",
+        "buttonSuccess": "rgba(71, 159, 70, 1)",
+        "buttonDanger": "rgba(255, 59, 48, 1)"
+    }
+}
